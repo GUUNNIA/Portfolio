@@ -1,6 +1,8 @@
 # Portfolio
 
-## MUSINSA PROJECT
+## [ MUSINSA PROJECT ]
+<hr>
 
 
-## CAR DAMAGE DETECTION
+## [ CAR DAMAGE DETECTION ]
+<hr>
