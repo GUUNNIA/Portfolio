@@ -1,6 +1,6 @@
 # Portfolio
 
-## [ MUSINSA PROJECT ]
+## [ MUSINSA PROJECT ] (https://github.com/GUUNNIA/Portfolio/blob/main/MUSINSA/MUSINSA_PROJECT_PDF.pdf)
 
 업로드중
 
