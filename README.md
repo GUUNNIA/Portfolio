@@ -12,5 +12,6 @@
 
 ## [ CAR DAMAGE DETECTION ]
 <hr>
+[- CAR_DAMAGE_DETECTION_PPT](https://github.com/GUUNNIA/Portfolio/blob/main/MUSINSA/MUSINSA_PROJECT_PDF.pdf)
 
-업로드얘정
+업로드예정
