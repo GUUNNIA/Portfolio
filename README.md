@@ -5,7 +5,7 @@
 
 <hr>
 
-#### 1. 상품별 고유 번호 크롤링 후 해당 상품들의 리뷰와 별점 크롤링 : [ReviewCrawling_from_each_item_number_based](https://github.com/GUUNNIA/Portfolio/blob/main/MUSINSA/ReviewCrawling_from_each_item_number_based.ipynb)
+#### #1. 상품별 고유 번호 크롤링 후 해당 상품들의 리뷰와 별점 크롤링 : [ReviewCrawling_from_each_item_number_based](https://github.com/GUUNNIA/Portfolio/blob/main/MUSINSA/ReviewCrawling_from_each_item_number_based.ipynb)
       [ 별점 : 100 / 80 / 60 / 40 / 20 ] == [ 별점 : 5점 / 4점 / 3점 / 2점 / 1점 ]
       
 | Need in #1 Files| File Name | LINK |
@@ -15,7 +15,7 @@
 
 <hr>
 
-#### 2. 긍정 / 부정 사전 만들기 & 모델 학습 : [Making Dicctionary_Positive,Negative - Model_Training](https://github.com/GUUNNIA/Portfolio/blob/main/MUSINSA/Making_Dicctionary_Positive%2CNegative_Model_Training.ipynb)
+#### #2. 긍정 / 부정 사전 만들기 & 모델 학습 : [Making Dicctionary_Positive,Negative - Model_Training](https://github.com/GUUNNIA/Portfolio/blob/main/MUSINSA/Making_Dicctionary_Positive%2CNegative_Model_Training.ipynb)
 
 
 | Need in #2 Files| File Name | LINK | NOTES |
@@ -29,7 +29,7 @@
 
 <hr>
 
-#####참조
+[ 참조 ]
 - Stopwords List : https://raw.githubusercontent.com/yoonkt200/FastCampusDataset/master/korean_stopwords.txt
 
 <hr>
