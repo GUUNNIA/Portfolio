@@ -19,7 +19,7 @@
 
 
 - Need in #2 Files
-      - [[Org]_Musinsa_Standard_review_Label.csv](https://github.com/GUUNNIA/Portfolio/blob/main/MUSINSA/Example_Data_File/%5BOrg%5D_Musinsa_Standard_review_Label.csv)/n
+      - [[ORG]_Musinsa_Standard_review_Label.csv](https://github.com/GUUNNIA/Portfolio/blob/main/MUSINSA/Example_Data_File/%5BOrg%5D_Musinsa_Standard_review_Label.csv)\n
       
       - [Total(Pos+Neg)_Word_Counts.csv](https://github.com/GUUNNIA/Portfolio/blob/main/MUSINSA/Example_Data_File/Total(Pos%2BNeg)_Word_Counts.csv)
 
