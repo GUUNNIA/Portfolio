@@ -17,16 +17,15 @@
 #### 2. 긍정 / 부정 사전 만들기 & 모델 학습 : [Making Dicctionary_Positive,Negative - Model_Training](https://github.com/GUUNNIA/Portfolio/blob/main/MUSINSA/Making_Dicctionary_Positive%2CNegative_Model_Training.ipynb)
 
 
-| Need in #1 Files| File Name | LINK |
+| Need in #1 Files| File Name | LINK | NOTES |
 |-----------------|-----------|------|
-|1.|[ORG]_Musinsa_Standard_review_Label.csv| [DATA](https://github.com/GUUNNIA/Portfolio/blob/main/MUSINSA/Example_Data_File/%5BOrg%5D_Musinsa_Standard_review_Label.csv) |
-|2.|Total(Pos+Neg)_Word_Counts.csv| [DATA](https://github.com/GUUNNIA/Portfolio/blob/main/MUSINSA/Example_Data_File/Total(Pos%2BNeg)_Word_Counts.csv) |
+|1.|[ORG]_Musinsa_Standard_review_Label.csv| [DATA](https://github.com/GUUNNIA/Portfolio/blob/main/MUSINSA/Example_Data_File/%5BOrg%5D_Musinsa_Standard_review_Label.csv) | |
+|2.|Total(Pos+Neg)_Word_Counts.csv| [DATA](https://github.com/GUUNNIA/Portfolio/blob/main/MUSINSA/Example_Data_File/Total(Pos%2BNeg)_Word_Counts.csv) | |
+|3.|1000_Total(Pos+Neg)_Word_Counts.csv| [DATA](https://github.com/GUUNNIA/Portfolio/blob/main/MUSINSA/Example_Data_File/1000_Total(Pos%2BNeg)_Word_Counts.csv) | |
+|4.|[HandWork]_SCORE_Intersection_3_to_-3.csv| [DATA](https://github.com/GUUNNIA/Portfolio/blob/main/MUSINSA/Example_Data_File/%5BHandWork%5D_SCORE_Intersection_3_to_-3.csv) | |
+|5.|[Using_For_Training]_Review_Dataset.csv| [DATA](https://github.com/GUUNNIA/Portfolio/blob/main/MUSINSA/Example_Data_File/%5BUsing_For_Training%5D_Review_Dataset.csv) | |
 
 
-- Need in #2 Files
-      - []()\n
-      
-      - [Total(Pos+Neg)_Word_Counts.csv](https://github.com/GUUNNIA/Portfolio/blob/main/MUSINSA/Example_Data_File/Total(Pos%2BNeg)_Word_Counts.csv)
 
 
 
