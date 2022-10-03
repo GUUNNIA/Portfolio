@@ -9,17 +9,22 @@
       
 | Need in #1 Files| File Name | LINK |
 |-----------------|-----------|------|
-|   1.  |reset_star_train.tsv| [DATA](https://github.com/GUUNNIA/Portfolio/blob/main/MUSINSA/Example_Data_File/reset_star_train.tsv) |
-|   2.  |reset_star_test.tsv| [DATA](https://github.com/GUUNNIA/Portfolio/blob/main/MUSINSA/Example_Data_File/reset_star_test.tsv) |
+|1.|reset_star_train.tsv| [DATA](https://github.com/GUUNNIA/Portfolio/blob/main/MUSINSA/Example_Data_File/reset_star_train.tsv) |
+|2.|reset_star_test.tsv| [DATA](https://github.com/GUUNNIA/Portfolio/blob/main/MUSINSA/Example_Data_File/reset_star_test.tsv) |
 
 <hr>
-
 
 #### 2. 긍정 / 부정 사전 만들기 & 모델 학습 : [Making Dicctionary_Positive,Negative - Model_Training](https://github.com/GUUNNIA/Portfolio/blob/main/MUSINSA/Making_Dicctionary_Positive%2CNegative_Model_Training.ipynb)
 
 
+| Need in #1 Files| File Name | LINK |
+|-----------------|-----------|------|
+|1.|ORG_Musinsa_Standard_review_Label.csv| [DATA](https://github.com/GUUNNIA/Portfolio/blob/main/MUSINSA/Example_Data_File/%5BOrg%5D_Musinsa_Standard_review_Label.csv) |
+|2.|Total(Pos+Neg)_Word_Counts.csv| [DATA](https://github.com/GUUNNIA/Portfolio/blob/main/MUSINSA/Example_Data_File/Total(Pos%2BNeg)_Word_Counts.csv) |
+
+
 - Need in #2 Files
-      - [[ORG]_Musinsa_Standard_review_Label.csv](https://github.com/GUUNNIA/Portfolio/blob/main/MUSINSA/Example_Data_File/%5BOrg%5D_Musinsa_Standard_review_Label.csv)\n
+      - []()\n
       
       - [Total(Pos+Neg)_Word_Counts.csv](https://github.com/GUUNNIA/Portfolio/blob/main/MUSINSA/Example_Data_File/Total(Pos%2BNeg)_Word_Counts.csv)
 
