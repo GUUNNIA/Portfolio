@@ -18,7 +18,7 @@
 
 
 | Need in #1 Files| File Name | LINK | NOTES |
-|-----------------|-----------|------|
+|-----------------|-----------|------|-------|
 |1.|[ORG]_Musinsa_Standard_review_Label.csv| [DATA](https://github.com/GUUNNIA/Portfolio/blob/main/MUSINSA/Example_Data_File/%5BOrg%5D_Musinsa_Standard_review_Label.csv) | |
 |2.|Total(Pos+Neg)_Word_Counts.csv| [DATA](https://github.com/GUUNNIA/Portfolio/blob/main/MUSINSA/Example_Data_File/Total(Pos%2BNeg)_Word_Counts.csv) | |
 |3.|1000_Total(Pos+Neg)_Word_Counts.csv| [DATA](https://github.com/GUUNNIA/Portfolio/blob/main/MUSINSA/Example_Data_File/1000_Total(Pos%2BNeg)_Word_Counts.csv) | |
