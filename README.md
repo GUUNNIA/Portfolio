@@ -7,10 +7,10 @@
 #### 1. 상품별 고유 번호 크롤링 후 해당 상품들의 리뷰와 별점 크롤링 : [ReviewCrawling_from_each_item_number_based](https://github.com/GUUNNIA/Portfolio/blob/main/MUSINSA/ReviewCrawling_from_each_item_number_based.ipynb)
       [ 별점 : 100 / 80 / 60 / 40 / 20 ] == [ 별점 : 5점 / 4점 / 3점 / 2점 / 1점 ]
       
-      
-- Need in #1 Files
-      - [reset_star_train.tsv](https://github.com/GUUNNIA/Portfolio/blob/main/MUSINSA/Example_Data_File/reset_star_train.tsv)
-      - [reset_star_test.tsv](https://github.com/GUUNNIA/Portfolio/blob/main/MUSINSA/Example_Data_File/reset_star_test.tsv)
+| Need in #1 Files| File Name | LINK |
+|-----------------|-----------|------|
+|   1.  |reset_star_train.tsv| [DATA](https://github.com/GUUNNIA/Portfolio/blob/main/MUSINSA/Example_Data_File/reset_star_train.tsv) |
+|   2.  |reset_star_test.tsv| [DATA](https://github.com/GUUNNIA/Portfolio/blob/main/MUSINSA/Example_Data_File/reset_star_test.tsv) |
 
 <hr>
 
