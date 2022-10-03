@@ -32,12 +32,16 @@
 [ 참조 ]
 - Stopwords List : https://raw.githubusercontent.com/yoonkt200/FastCampusDataset/master/korean_stopwords.txt
 
-<hr>
+<hr><br>
+
+
 
 
 
 
 ## [ CAR DAMAGE DETECTION ]
+
+
 
 [- CAR_DAMAGE_DETECTION_PPT](https://github.com/GUUNNIA/Portfolio/blob/main/CAR_DAMAGE_DETECTION/car%20damage.pdf)
 
