@@ -1,8 +1,9 @@
 # Portfolio
 
 ## [ MUSINSA PROJECT ] 
-업로드중
 [- MUSINSA_PROJECT_PPT](https://github.com/GUUNNIA/Portfolio/blob/main/MUSINSA/MUSINSA_PROJECT_PDF.pdf)
+
+<hr>
 
 #### 1. 상품별 고유 번호 크롤링 후 해당 상품들의 리뷰와 별점 크롤링 : [ReviewCrawling_from_each_item_number_based](https://github.com/GUUNNIA/Portfolio/blob/main/MUSINSA/ReviewCrawling_from_each_item_number_based.ipynb)
       [ 별점 : 100 / 80 / 60 / 40 / 20 ] == [ 별점 : 5점 / 4점 / 3점 / 2점 / 1점 ]
@@ -31,7 +32,7 @@
 #####참조
 - Stopwords List : https://raw.githubusercontent.com/yoonkt200/FastCampusDataset/master/korean_stopwords.txt
 
-
+<hr>
 
 
 
