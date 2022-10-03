@@ -32,12 +32,10 @@
 [ 참조 ]
 - Stopwords List : https://raw.githubusercontent.com/yoonkt200/FastCampusDataset/master/korean_stopwords.txt
 
-<hr><br>
-
-
-
-
-
+<hr>
+<br>
+<br>
+<br>
 
 ## [ CAR DAMAGE DETECTION ]
 
