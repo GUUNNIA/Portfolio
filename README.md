@@ -14,7 +14,8 @@
 <hr>
 
 
-
+#####참조
+- Stopwords List : https://raw.githubusercontent.com/yoonkt200/FastCampusDataset/master/korean_stopwords.txt
 
 ## [ CAR DAMAGE DETECTION ]
 
