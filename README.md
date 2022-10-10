@@ -29,9 +29,7 @@
 |4.|[HandWork]_SCORE_Intersection_3_to_-3.csv| [DATA](https://github.com/GUUNNIA/Portfolio/blob/main/MUSINSA/Example_Data_File/%5BHandWork%5D_SCORE_Intersection_3_to_-3.csv) | df_1,df_2 Intersection Words |
 |5.|[Using_For_Training]_Review_Dataset.csv| [DATA](https://github.com/GUUNNIA/Portfolio/blob/main/MUSINSA/Example_Data_File/%5BUsing_For_Training%5D_Review_Dataset.csv) | For Training |
 
-<br>
 <hr>
-<br>
 
 [ 참조 ]
 - Stopwords List : https://raw.githubusercontent.com/yoonkt200/FastCampusDataset/master/korean_stopwords.txt
