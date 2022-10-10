@@ -15,7 +15,7 @@
 
 <hr>
 
-#### #2. 긍정 / 부정 사전 만들기 & 모델 학습 : [Making Dicctionary_Positive,Negative - Model_Training](https://github.com/GUUNNIA/Portfolio/blob/main/MUSINSA/Making_Dicctionary_Positive%2CNegative_Model_Training.ipynb)
+#### <h3>#2. 긍정 / 부정 사전 만들기 & 모델 학습 : [Making Dicctionary_Positive,Negative - Model_Training](https://github.com/GUUNNIA/Portfolio/blob/main/MUSINSA/Making_Dicctionary_Positive%2CNegative_Model_Training.ipynb)</h3>
 
 
 | Need in #2 Files| File Name | LINK | NOTES |
@@ -35,7 +35,7 @@
 <hr>
 <br>
 
-#### #3. 큐레이팅 글(전문성) 과 상품 상세 설명(전문단어)을 비교하여 상품 추천 시스템 제작 [ Using only MusinsaStandard Items ]
+#### <h3>#3. 큐레이팅 글(전문성) 과 상품 상세 설명(전문단어)을 비교하여 상품 추천 시스템 제작 [ Using only MusinsaStandard Items ]</h3>
 
 | NO.| File Name | LINK | NOTE |
 |-----------------|-----------|------|------|
