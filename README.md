@@ -35,7 +35,7 @@
 <hr>
 <br>
 
-#### <h3>#3. 큐레이팅 글(전문성) 과 상품 상세 설명(전문단어)을 비교하여 상품 추천 시스템 제작 [ Using only MusinsaStandard Items ]</h3>
+#### <h3>#3. 큐레이팅 글(전문성) 과 상품 상세 설명(전문단어)을 비교하여 상품 추천 시스템 제작 [ Using MusinsaStandard Items ]</h3>
 
 | NO.| File Name | LINK | NOTE |
 |-----------------|-----------|------|------|
