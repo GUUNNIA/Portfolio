@@ -50,6 +50,8 @@
 <br>
 <br>
 <br>
+<hr>
+<br>
 
 ## [ CAR DAMAGE DETECTION ]
 
