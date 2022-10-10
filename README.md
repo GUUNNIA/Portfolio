@@ -9,7 +9,7 @@
 #### <h3>#1. 상품별 고유 번호 크롤링 후 해당 상품들의 리뷰와 별점 크롤링  : [ReviewCrawling_from_each_item_number_based](https://github.com/GUUNNIA/Portfolio/blob/main/MUSINSA/ReviewCrawling_from_each_item_number_based.ipynb)</h3>
       [ 별점 : 100 / 80 / 60 / 40 / 20 ] == [ 별점 : 5점 / 4점 / 3점 / 2점 / 1점 ]
       
-| Need in #1 Files| File Name | LINK |
+| Need for #1 Files| File Name | LINK |
 |-----------------|-----------|------|
 |1.|reset_star_train.tsv| [DATA](https://github.com/GUUNNIA/Portfolio/blob/main/MUSINSA/Example_Data_File/reset_star_train.tsv) |
 |2.|reset_star_test.tsv| [DATA](https://github.com/GUUNNIA/Portfolio/blob/main/MUSINSA/Example_Data_File/reset_star_test.tsv) |
@@ -21,7 +21,7 @@
 #### <h3>#2. 긍정 / 부정 사전 만들기 & 모델 학습 : [Making Dicctionary_Positive,Negative - Model_Training](https://github.com/GUUNNIA/Portfolio/blob/main/MUSINSA/Making_Dicctionary_Positive%2CNegative_Model_Training.ipynb)</h3>
 
 
-| Need in #2 Files| File Name | LINK | NOTES |
+| Need for #2 Files| File Name | LINK | NOTES |
 |-----------------|-----------|------|-------|
 |1.|[Org]_Musinsa_Standard_review_Label.csv| [DATA](https://github.com/GUUNNIA/Portfolio/blob/main/MUSINSA/Example_Data_File/%5BOrg%5D_Musinsa_Standard_review_Label.csv) | Raw Crawling Data |
 |2.|Total(Pos+Neg)_Word_Counts.csv| [DATA](https://github.com/GUUNNIA/Portfolio/blob/main/MUSINSA/Example_Data_File/Total(Pos%2BNeg)_Word_Counts.csv) | ipynb file 'df_1' 내용 참조 |
