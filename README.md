@@ -34,8 +34,13 @@
 
 <hr>
 <br>
-<br>
-<br>
+
+#### #3. 큐레이팅 글(전문성) 과 상품 상세 설명(전문단어)을 비교하여 상품 추천 시스템 제작 [ Using only MusinsaStandard Items ]
+
+| NO.| File Name | LINK | NOTE |
+|-----------------|-----------|------|------|
+|1-1.| TotalPage_Crawling&Refine&Tokenize | [DATA](https://github.com/GUUNNIA/Portfolio/blob/main/MUSINSA/1-1.TotalPage_Crawling%26Refine%26Tokenize.ipynb) | "MusinsaStandard 상품 전체 상세설명" 크롤링 + 토큰화. 큐레이팅 글과의 유사도 비교를 위함. |
+|1-2.| - | [DATA](https://) | - |
 
 ## [ CAR DAMAGE DETECTION ]
 
