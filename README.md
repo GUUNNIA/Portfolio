@@ -43,7 +43,7 @@
 | NO.| File Name | LINK | NOTE |
 |-----------------|-----------|------|------|
 |1-1.| TotalPage_Crawling&Refine&Tokenize | [DATA](https://github.com/GUUNNIA/Portfolio/blob/main/MUSINSA/1-1.TotalPage_Crawling%26Refine%26Tokenize.ipynb) | - MusinsaStandard 상품 전체 상세설명 크롤링 + 토큰화. <br> - 큐레이팅 글과의 유사도 비교를 위함. |
-|1-2.| - | [DATA](https://github.com/GUUNNIA/Portfolio/blob/main/MUSINSA/1_2.Curating_TotalDate%26CuratingNumber.ipynb) | - |
+|1-2.| 1_2.Curating_TotalDate&CuratingNumber | [DATA](https://github.com/GUUNNIA/Portfolio/blob/main/MUSINSA/1_2.Curating_TotalDate%26CuratingNumber.ipynb) | - |
 
 
 <br>
